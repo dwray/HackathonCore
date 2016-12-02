@@ -1,0 +1,37 @@
+Notes.  REplace password before running
+
+
+FRom a command prompt in the key directory:
+
+
+
+chmod 700 solace-hackathon-2016.pem 
+ssh -p 2222 -i solace-hackathon-2016.pem  sysadmin@52.220.157.193
+docker exec -i -t solace passwd support
+docker exec -i -t solace passwd root
+solacectl cli
+
+
+
+session timeout 0
+enable
+configure
+username admin
+change-password <<PASSWORD>>
+exit
+router-name sgp-core-01 defer 
+hostname sgp-core-01 defer   
+create message-vpn hackathon
+
+//**  TODO Export Subscriptions
+TODO Basic Authentication
+TODO Internal
+routing
+create cspf neighbor seo-core-01 connect-via  52.78.245.158 compressed-data
+link-cost 100
+exit
+exit
+no shutdown
+Check it's setup
+show cspf neighbor *
+
