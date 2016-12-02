@@ -27,9 +27,19 @@ create message-vpn hackathon
 TODO Basic Authentication
 TODO Internal
 routing
+create cspf neighbor frk-core-01 connect-via  35.156.63.21  compressed-data
+link-cost 100
+exit
+exit
 create cspf neighbor seo-core-01 connect-via  52.78.245.158 compressed-data
 link-cost 100
 exit
+exit
+
+* add in 
+* create cspf neighbor nov-core-01 connect-via  52.78.245.158 compressed-data
+* link-cost 100
+* exit
 exit
 no shutdown
 Check it's setup
