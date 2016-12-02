@@ -45,11 +45,13 @@ Field created demo's - allow SC's to share a 5-10 minute asset they have created
 Wrap up next ateps  
 
 __Section suggestions__  
-1 - MANDATORY - Have all SC's send a message and see it on the global map
-2 - Pass a message between all participants (end to end hops)  - potentially through the core
-3 - Show SolAdmin Screen
-4 - Show Aaron Demo
-5 - Enterprise Stats view of all the nodes.  Could we use this for seeing whi has published so far?
+
+1. MANDATORY - Have all SC's send a message and see it on the global map
+2.  Pass a message between all participants (end to end hops)  - potentially through the core
+3.  Show SolAdmin Screen
+4.  Show Aaron Demo
+5.  Have flow represented by message throughput across 'links'.  Use weights to direct flow.
+6.  Enterprise Stats view of all the nodes.  Could we use this for seeing whi has published so far?
 
 test
 
