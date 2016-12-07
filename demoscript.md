@@ -2,7 +2,7 @@
 
 * Format : Recorded webex.
 * 1 global 2 hour session suggestion
-* Timing 8-10pm singapore, 7-9am NY 11pm-1am australia 5-7am San Francisco
+* Timing 9-11pm singapore, (8-10am NY 12pm-2am australia 5-7am San Francisco * times not checked.  Trust the calender invite)
 
 Intros's stage setting etc - Sumeet / Denis  
 Breifing of the demo's we are going to run  
