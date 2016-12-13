@@ -4,34 +4,16 @@
 * 1 global 2 hour session suggestion
 * Timing 9-11pm singapore, (8-10am NY 12pm-2am australia 5-7am San Francisco * times not checked.  Trust the calender invite)
 
-Intros's stage setting etc - Sumeet / Denis  
-Breifing of the demo's we are going to run  
-Run through Demo's  
-Field created demo's - allow SC's to share a 5-10 minute asset they have created  
-Wrap up next steps  
 
-__Section suggestions__  
-
-1. MANDATORY - Have all SC's send a message and see it on the global map
-2.  Pass a message between all participants (end to end hops)  - potentially through the core
-3.  Show SolAdmin Screen
-4.  Show Aaron Demo
-5.  Have flow represented by message throughput across 'links'.  Use weights to direct flow.
-6.  Enterprise Stats view of all the nodes.  Could we use this for seeing whi has published so far?
-
-
-- Solace global Mexican wave
-- soladmin network graph competition (already have a fish and a dog)
-- Animation of the nodes coming online over time
-- changes in flow based on traffic across the neighbour links.
-- demo of global video distribution
-- demo of global chat app.
-- demo of rtview
-- demo of enterprise stats
-- Record the whole event.
-
-test
-
-enable / disable some of the core inter-region connections
-Use route weights to show 
-
+**Start**|**Duration**|**End**|**Section**|**Presenter**|**Participants**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+0:00|10|0:10|Intro, setting the stage|Denis / Sumeet / Phil| 
+0:10|15|0:25|Getting the world online|Phil|ALL
+0:25|15|0:40|Solace global Mexican Wave|Aaron|ALL
+0:40|10|0:50|Chat App|David Wray|ALL
+0:50|10|1:00|Global Message Flow|Aaron| 
+1:00|10|1:10|Enterprise Stats|Mike O'Brien| 
+1:10|10|1:20|Global Video distribution|Robert / Eric|Robert H, TBD, TBD
+1:20|10|1:30|RTView|RTView|SL
+1:30|10|1:40|Interesting statistics|Phil|Phil
+1:40|10|1:50|Summary and Wrap up.|Denis / Sumeet / Phil|
