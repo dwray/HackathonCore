@@ -21,7 +21,7 @@ __Section suggestions__
 
 
 - Solace global Mexican wave
-- Prettty soladmin network graph competition (already have a fish and a dog)
+- soladmin network graph competition (already have a fish and a dog)
 - Animation of the nodes coming online over time
 - changes in flow based on traffic across the neighbour links.
 - demo of global video distribution
@@ -29,9 +29,6 @@ __Section suggestions__
 - demo of rtview
 - demo of enterprise stats
 - Record the whole event.
-
-
-
 
 test
 
