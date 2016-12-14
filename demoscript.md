@@ -9,7 +9,7 @@
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
 0:00|10|0:10|Intro, setting the stage|Denis / Sumeet / Phil| 
 0:10|15|0:25|Getting the world online|Phil|ALL
-0:25|15|0:40|Solace global Mexican Wave|Aaron|ALL
+0:25|15|0:40|Solace global wave|Aaron|ALL
 0:40|10|0:50|Chat App|David Wray|ALL
 0:50|10|1:00|Global Message Flow|Aaron| 
 1:00|10|1:10|Enterprise Stats|Mike O'Brien| 
